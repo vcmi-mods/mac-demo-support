@@ -1,0 +1,10 @@
+{
+	"core:blackDragon" :
+	{
+		"abilities":
+		{
+			"hateGiants" : null,
+			"hateTitans" : null
+		}
+	}
+}

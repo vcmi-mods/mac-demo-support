@@ -1,0 +1,14 @@
+{
+	"core:earthElemental" :
+	{
+		"upgrades": null
+	},
+	"core:fireElemental" :
+	{
+		"upgrades": null
+	},
+	"core:waterElemental" :
+	{
+		"upgrades": null
+	}
+}

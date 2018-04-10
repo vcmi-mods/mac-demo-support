@@ -1,0 +1,57 @@
+{
+	"author" : "misiokles and SXX",
+	"contact" : "",
+	"name" : "MacOS demo assets support",
+	"description" : "With this mod enabled you can play using game data extracted from Heroes 3: Complete demo for Mac. All towns and creatures missing will be disabled, but be aware that most custom maps depend on them.",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Other",
+	"version" : "0.1",
+	"changelog" :
+    {
+        "0.1"   : [ "Initial release" ]
+    },
+	"factions" :
+	[
+		"config/mac-demo-support/factions-without-town/conflux.json",
+		"config/mac-demo-support/factions-without-town/fortress.json",
+		"config/mac-demo-support/factions-without-town/inferno.json",
+		"config/mac-demo-support/factions-without-town/rampart.json",
+		"config/mac-demo-support/factions-without-town/stronghold.json",
+		"config/mac-demo-support/factions-without-town/tower.json"
+	],
+	"creatures" :
+	[
+		"config/mac-demo-support/patched-creatures/castle.json",
+		"config/mac-demo-support/patched-creatures/dungeon.json",
+		
+		"config/mac-demo-support/patched-creatures/conflux.json",
+		"config/mac-demo-support/patched-creatures/fortress.json",
+		"config/mac-demo-support/patched-creatures/inferno.json",
+		"config/mac-demo-support/patched-creatures/rampart.json",
+		"config/mac-demo-support/patched-creatures/stronghold.json",
+		"config/mac-demo-support/patched-creatures/tower.json",
+		
+		"config/mac-demo-support/disabled-creatures/conflux.json",
+		"config/mac-demo-support/disabled-creatures/fortress.json",
+		"config/mac-demo-support/disabled-creatures/inferno.json",
+		"config/mac-demo-support/disabled-creatures/rampart.json",
+		"config/mac-demo-support/disabled-creatures/stronghold.json",
+		"config/mac-demo-support/disabled-creatures/tower.json",
+		"config/mac-demo-support/disabled-creatures/neutral.json",
+	],
+	"heroes" :
+	[
+		"config/mac-demo-support/disabled-heroes/conflux.json",
+		"config/mac-demo-support/disabled-heroes/fortress.json",
+		"config/mac-demo-support/disabled-heroes/inferno.json",
+		"config/mac-demo-support/disabled-heroes/rampart.json",
+		"config/mac-demo-support/disabled-heroes/stronghold.json",
+		"config/mac-demo-support/disabled-heroes/tower.json",
+		"config/mac-demo-support/disabled-heroes/special.json",
+	],
+	"heroClasses" :
+	[
+		"config/mac-demo-support/patched-hero-classes.json"
+	]
+}

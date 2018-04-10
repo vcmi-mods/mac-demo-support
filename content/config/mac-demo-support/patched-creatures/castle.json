@@ -1,0 +1,18 @@
+{
+	"core:angel" :
+	{
+		"abilities":
+		{
+			"hateDevils" : null,
+			"hateArchDevils" : null
+		}
+	},
+	"core:archangel" :
+	{
+		"abilities":
+		{
+			"hateDevils" : null,
+			"hateArchDevils" : null
+		}
+	}
+}
