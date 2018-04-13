@@ -6,11 +6,11 @@
 					{
 						"chance": 100,
 						"guards": [
-							{ "amount": 200, "type": "peasant" },
-							{ "amount": 200, "type": "peasant" },
-							{ "amount": 200, "type": "peasant" },
-							{ "amount": 200, "type": "peasant" },
-							{ "amount": 200, "type": "peasant" }
+							{ "amount": 200, "type": "core:peasant" },
+							{ "amount": 200, "type": "core:peasant" },
+							{ "amount": 200, "type": "core:peasant" },
+							{ "amount": 200, "type": "core:peasant" },
+							{ "amount": 200, "type": "core:peasant" }
 						],
 						"combat_value": 403,
 						"reward" : {
@@ -39,61 +39,61 @@
 					{
 						"chance": 30,
 						"guards": [
-							{ "amount": 10, "type": "serpentFly" },
-							{ "amount": 10, "type": "serpentFly" },
-							{ "amount": 10, "type": "serpentFly" },
-							{ "amount": 10, "type": "serpentFly" },
-							{ "amount": 10, "type": "serpentFly" }
+							{ "amount": 10, "type": "core:serpentFly" },
+							{ "amount": 10, "type": "core:serpentFly" },
+							{ "amount": 10, "type": "core:serpentFly" },
+							{ "amount": 10, "type": "core:serpentFly" },
+							{ "amount": 10, "type": "core:serpentFly" }
 						],
 						"combat_value": 154,
 						"reward" : {
 							"value": 3200,
-							"creatures": [ { "amount": 4, "type": "wyvern" } ]
+							"creatures": [ { "amount": 25, "type": "core:serpentFly" } ]
 						}
 					},
 					{
 						"chance": 30,
 						"guards": [
-							{ "amount": 14, "type": "serpentFly" },
-							{ "amount": 14, "type": "serpentFly" },
-							{ "amount": 14, "type": "serpentFly" },
-							{ "amount": 14, "type": "serpentFly" },
-							{ "amount": 14, "type": "serpentFly" }
+							{ "amount": 14, "type": "core:serpentFly" },
+							{ "amount": 14, "type": "core:serpentFly" },
+							{ "amount": 14, "type": "core:serpentFly" },
+							{ "amount": 14, "type": "core:serpentFly" },
+							{ "amount": 14, "type": "core:serpentFly" }
 						],
 						"combat_value": 230,
 						"reward" : {
 							"value": 4800,
-							"creatures": [ { "amount": 6, "type": "wyvern" } ]
+							"creatures": [ { "amount": 50, "type": "core:serpentFly" } ]
 						}
 					},
 					{
 						"chance": 30,
 						"guards": [
-							{ "amount": 20, "type": "serpentFly" },
-							{ "amount": 20, "type": "serpentFly" },
-							{ "amount": 20, "type": "serpentFly" },
-							{ "amount": 20, "type": "serpentFly" },
-							{ "amount": 20, "type": "serpentFly" }
+							{ "amount": 20, "type": "core:serpentFly" },
+							{ "amount": 20, "type": "core:serpentFly" },
+							{ "amount": 20, "type": "core:serpentFly" },
+							{ "amount": 20, "type": "core:serpentFly" },
+							{ "amount": 20, "type": "core:serpentFly" }
 						],
 						"combat_value": 307,
 						"reward" : {
 							"value": 6400,
-							"creatures": [ { "amount": 8, "type": "wyvern" } ]
+							"creatures": [ { "amount": 75, "type": "core:serpentFly" } ]
 						}
 					},
 					{
 						"chance": 10,
 						"guards": [
-							{ "amount": 30, "type": "serpentFly" },
-							{ "amount": 30, "type": "serpentFly" },
-							{ "amount": 30, "type": "serpentFly" },
-							{ "amount": 30, "type": "serpentFly" },
-							{ "amount": 30, "type": "serpentFly" }
+							{ "amount": 30, "type": "core:serpentFly" },
+							{ "amount": 30, "type": "core:serpentFly" },
+							{ "amount": 30, "type": "core:serpentFly" },
+							{ "amount": 30, "type": "core:serpentFly" },
+							{ "amount": 30, "type": "core:serpentFly" }
 						],
 						"combat_value": 461,
 						"reward" : {
 							"value": 9600,
-							"creatures": [ { "amount": 12, "type": "wyvern" } ]
+							"creatures": [ { "amount": 100, "type": "core:serpentFly" } ]
 						}
 					}
 				]
@@ -122,10 +122,10 @@
 					{
 						"chance": 30,
 						"guards": [
-							{ "amount": 10, "type": "boneDragon" },
-							{ "amount": 8, "type": "boneDragon" },
-							{ "amount": 4, "type": "ghostDragon" },
-							{ "amount": 2, "type": "ghostDragon" }
+							{ "amount": 10, "type": "core:boneDragon" },
+							{ "amount": 8, "type": "core:boneDragon" },
+							{ "amount": 4, "type": "core:ghostDragon" },
+							{ "amount": 2, "type": "core:ghostDragon" }
 						],
 						"combat_value": 769,
 						"reward" : {
@@ -145,10 +145,10 @@
 					{
 						"chance": 30,
 						"guards": [
-							{ "amount": 12, "type": "boneDragon" },
-							{ "amount": 10, "type": "boneDragon" },
-							{ "amount": 6, "type": "ghostDragon" },
-							{ "amount": 4, "type": "ghostDragon" }
+							{ "amount": 12, "type": "core:boneDragon" },
+							{ "amount": 10, "type": "core:boneDragon" },
+							{ "amount": 6, "type": "core:ghostDragon" },
+							{ "amount": 4, "type": "core:ghostDragon" }
 						],
 						"combat_value": 209,
 						"reward" : {
@@ -168,10 +168,10 @@
 					{
 						"chance": 30,
 						"guards": [
-							{ "amount": 16, "type": "boneDragon" },
-							{ "amount": 12, "type": "boneDragon" },
-							{ "amount": 8, "type": "ghostDragon" },
-							{ "amount": 6, "type": "ghostDragon" }
+							{ "amount": 16, "type": "core:boneDragon" },
+							{ "amount": 12, "type": "core:boneDragon" },
+							{ "amount": 8, "type": "core:ghostDragon" },
+							{ "amount": 6, "type": "core:ghostDragon" }
 						],
 						"combat_value": 556,
 						"reward" : {
@@ -191,10 +191,10 @@
 					{
 						"chance": 10,
 						"guards": [
-							{ "amount": 15, "type": "boneDragon" },
-							{ "amount": 15, "type": "boneDragon" },
-							{ "amount": 10, "type": "ghostDragon" },
-							{ "amount": 10, "type": "ghostDragon" }
+							{ "amount": 15, "type": "core:boneDragon" },
+							{ "amount": 15, "type": "core:boneDragon" },
+							{ "amount": 10, "type": "core:ghostDragon" },
+							{ "amount": 10, "type": "core:ghostDragon" }
 						],
 						"combat_value": 343,
 						"reward" : {
@@ -229,10 +229,10 @@
 					{
 						"chance": 100,
 						"guards": [
-							{ "amount": 50, "type": "ironGolem" },
-							{ "amount": 60, "type": "ironGolem" },
-							{ "amount": 50, "type": "ironGolem" },
-							{ "amount": 60, "type": "ironGolem" }
+							{ "amount": 50, "type": "core:ironGolem" },
+							{ "amount": 60, "type": "core:ironGolem" },
+							{ "amount": 50, "type": "core:ironGolem" },
+							{ "amount": 60, "type": "core:ironGolem" }
 						],
 						"combat_value": 786,
 						"reward" : {

@@ -1,10 +1,42 @@
 {
-	"core:grandElf" : null,
-	"core:silverPegasus" : null,
-	"core:dendroidGuard" : null,
-	"core:dendroidSoldier" : null,
-	"core:unicorn" : null,
-	"core:warUnicorn" : null,
-	"core:greenDragon" : null,
-	"core:goldDragon" : null
+	"core:grandElf" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:silverPegasus" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:dendroidGuard" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:dendroidSoldier" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:unicorn" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:warUnicorn" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:greenDragon" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:goldDragon" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	}
 }

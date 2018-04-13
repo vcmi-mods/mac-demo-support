@@ -1,11 +1,47 @@
 {
-	"core:gorgon" : null,
-	"core:mightyGorgon" : null,
-	"core:fireDragonFly" : null,
-	"core:basilisk" : null,
-	"core:greaterBasilisk" : null,
-	"core:wyvern" : null,
-	"core:wyvernMonarch" : null,
-	"core:hydra" : null,
-	"core:chaosHydra" : null
+	"core:gorgon" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:mightyGorgon" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:fireDragonFly" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:basilisk" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:greaterBasilisk" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:wyvern" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:wyvernMonarch" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:hydra" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	},
+	"core:chaosHydra" :
+	{
+		"disabled" : true,
+		"graphics" : null
+	}
 }

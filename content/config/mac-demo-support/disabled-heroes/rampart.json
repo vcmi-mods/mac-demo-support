@@ -1,4 +1,10 @@
 {
-	"core:ryland": null,
-	"core:clancy": null
+	"core:ryland":
+	{
+		"special" : true
+	},
+	"core:clancy":
+	{
+		"special" : true
+	}
 }

@@ -1,5 +1,14 @@
 {
-	"core:bron": null,
-	"core:alkin": null,
-	"core:broghild": null
+	"core:bron":
+	{
+		"special" : true
+	},
+	"core:alkin":
+	{
+		"special" : true
+	},
+	"core:broghild":
+	{
+		"special" : true
+	}
 }

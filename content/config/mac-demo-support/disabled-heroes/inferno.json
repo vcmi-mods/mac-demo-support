@@ -1,5 +1,14 @@
 {
-	"core:rashka": null,
-	"core:marius": null,
-	"core:nymus": null
+	"core:rashka":
+	{
+		"special" : true
+	},
+	"core:marius":
+	{
+		"special" : true
+	},
+	"core:nymus":
+	{
+		"special" : true
+	}
 }

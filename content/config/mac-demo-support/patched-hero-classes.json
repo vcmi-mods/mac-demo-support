@@ -1,34 +1,34 @@
 {
 	"core:ranger" :
 	{
-		"commander" : "woodElf",
+		"commander" : "core:woodElf"
 	},
 	"core:druid" :
 	{
-		"commander" : "woodElf",
+		"commander" : "core:woodElf"
 	},
 	"core:alchemist" :
 	{
-		"commander" : "masterGremlin",
+		"commander" : "core:masterGremlin"
 	},
 	"core:wizard" :
 	{
-		"commander" : "masterGremlin",
+		"commander" : "core:masterGremlin"
 	},
 	"core:barbarian" :
 	{
-		"commander" : "orc",
+		"commander" : "core:orc"
 	},
 	"core:battlemage" :
 	{
-		"commander" : "orc",
+		"commander" : "core:orc"
 	},
 	"core:planeswalker" :
 	{
-		"commander" : "waterElemental",
+		"commander" : "core:waterElemental"
 	},
 	"core:elementalist" :
 	{
-		"commander" : "waterElemental",
+		"commander" : "core:waterElemental"
 	}
 }

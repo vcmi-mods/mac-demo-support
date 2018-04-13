@@ -1,5 +1,14 @@
 {
-	"core:shiva": null,
-	"core:krellion": null,
-	"core:vey": null
+	"core:shiva":
+	{
+		"special" : true
+	},
+	"core:krellion":
+	{
+		"special" : true
+	},
+	"core:vey":
+	{
+		"special" : true
+	}
 }

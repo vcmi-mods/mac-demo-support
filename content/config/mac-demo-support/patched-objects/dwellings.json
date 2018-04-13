@@ -35,9 +35,9 @@
 	"core:creatureGeneratorSpecial" : {
 		"types" : {
 			"golemFactory" : {
-				"creatures#override" : [[ "ironGolem" ]],
+				"creatures#override" : [[ "core:ironGolem" ]],
 				"guards" : null
 			}
 		}
-	},
+	}
 }
