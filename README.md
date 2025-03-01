@@ -3,7 +3,7 @@
 This mod enables support for playing with the demo version of **Heroes of Might and Magic III**.  
 It includes a limited selection of content while still offering a variety of gameplay elements.  
 
-## 🎮 Playable Factions  
+## 🎮 Playable towns  
 - 🏰 **Castle**  
 - 🏛️ **Dungeon**  
 - ☠️ **Necropolis**  
