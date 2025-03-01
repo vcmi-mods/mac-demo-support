@@ -1,0 +1,13 @@
+{
+	"moon-artifacts:moonMage" : {
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"wake-of-gods.commanders:ogreLeader1" : {
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
+	}
+}
