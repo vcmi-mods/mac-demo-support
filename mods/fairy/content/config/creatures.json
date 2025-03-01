@@ -1,0 +1,38 @@
+{
+	"fairy-town:ftIris1" : {
+		"sound" :
+		{
+			"attack": "ZELTATTK.wav",
+			"defend": "ZELTDFND.wav",
+			"killed": "ZELTKILL.wav",
+			"startMoving": "ZELTSHOT.wav",
+			"endMoving": "ZELTSHOT.wav"
+		}
+	},
+	"fairy-town:ftIris2" : {
+		"sound" :
+		{
+			"attack": "ZELTATTK.wav",
+			"defend": "ZELTDFND.wav",
+			"killed": "ZELTKILL.wav",
+			"startMoving": "ZELTSHOT.wav",
+			"endMoving": "ZELTSHOT.wav"
+		}
+	},
+	"fairy-town:ftSibyl1" : {
+		"sound" :
+		{
+			"attack": "ZELTATTK.wav",
+			"defend": "ZELTDFND.wav",
+			"move": "ZELTMOVE.wav"
+		}
+	},
+	"fairy-town:ftSibyl2" : {
+		"sound" :
+		{
+			"attack": "ZELTATTK.wav",
+			"defend": "ZELTDFND.wav",
+			"move": "ZELTMOVE.wav"
+		}
+	}
+}

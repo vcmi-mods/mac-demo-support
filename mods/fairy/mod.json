@@ -1,0 +1,17 @@
+{
+	"name" : "Heroes III Demo - Fairy fix",
+	"description": "",
+	"author" : "misiokles, SXX, George King",
+	"contact" : "",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Compatibility",
+	"version" : "1.0",
+	"depends" : [
+		"fairy-town"
+	],
+	"creatures" :
+	[
+		"config/creatures.json"
+	]
+}

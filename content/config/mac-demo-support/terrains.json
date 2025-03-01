@@ -1,34 +1,42 @@
 {
 	"core:sand" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	},
 	"core:grass" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	},
 	"core:snow" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	},
 	"core:swamp" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	},
 	"core:rough" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	},
 	"core:subterra" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	},
 	"core:lava" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	},
 	"core:rock" :
 	{
-		"music" : [ "music/null" ]
+		//"music" : [ "music/null" ]
+		"music" : [ "Dirt.mp3" ]
 	}
 }
