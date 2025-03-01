@@ -1,0 +1,9 @@
+{
+	"core:dungeon" :
+	{
+		"town" :
+		{
+			"musicTheme" : [ "music/Dungeon.ogg" ]
+		}
+	}
+}

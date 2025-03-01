@@ -1,0 +1,34 @@
+{
+	"core:sand" :
+	{
+		"music" : [ "music/null" ]
+	},
+	"core:grass" :
+	{
+		"music" : [ "music/null" ]
+	},
+	"core:snow" :
+	{
+		"music" : [ "music/null" ]
+	},
+	"core:swamp" :
+	{
+		"music" : [ "music/null" ]
+	},
+	"core:rough" :
+	{
+		"music" : [ "music/null" ]
+	},
+	"core:subterra" :
+	{
+		"music" : [ "music/null" ]
+	},
+	"core:lava" :
+	{
+		"music" : [ "music/null" ]
+	},
+	"core:rock" :
+	{
+		"music" : [ "music/null" ]
+	}
+}

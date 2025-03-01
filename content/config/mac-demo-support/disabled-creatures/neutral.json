@@ -12,27 +12,72 @@
 	"core:azureDragon" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:crystalDragon" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:fairieDragon" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:rustDragon" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:enchanter" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:sharpshooter" :
 	{
@@ -42,6 +87,15 @@
 	"core:troll" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	}
 }

@@ -1,6 +1,60 @@
 {
 	"core:inferno" :
 	{
-		"town" : null
+		"special" : true,
+		"creatureBackground" :
+		{
+			"120px" : "null",
+			"130px" : "null"
+		},
+		"town" :
+		{
+			"structures" :
+			{
+				"mageGuild1":     { "animation" : "TBINMAGE.def", "x" : 667, "y" : 127, "border" : "null", "area" : "null" },
+				"mageGuild2":     { "animation" : "TBINMAG2.def", "x" : 667, "y" : 101, "border" : "null", "area" : "null" },
+				"mageGuild3":     { "animation" : "TBINMAG3.def", "x" : 667, "y" : 83,  "border" : "null", "area" : "null" },
+				"mageGuild4":     { "animation" : "TBINMAG4.def", "x" : 667, "y" : 56,  "border" : "null", "area" : "null" },
+				"mageGuild5":     { "animation" : "TBINMAG5.def", "x" : 667, "y" : 35,  "border" : "null", "area" : "null" },
+				"tavern":         { "animation" : "TBINTVRN.def", "x" : 105, "y" : 219, "z" : 1,  "border" : "null",   "area" : "null" },
+				"fort":           { "animation" : "TBINCSTL.def", "x" : 222, "y" : 44,  "z" : -2, "border" : "null", "area" : "null" },
+				"citadel":        { "animation" : "TBINCAS2.def", "x" : 222, "y" : 44,  "z" : -2, "border" : "null", "area" : "null" },
+				"castle":         { "animation" : "TBINCAS3.def", "x" : 222, "y" : 18,  "z" : -2, "border" : "null", "area" : "null" },
+				"villageHall":    { "animation" : "TBINHALL.def", "x" : 0,   "y" : 174, "border" : "null",  "area" : "null"  },
+				"townHall":       { "animation" : "TBINHAL2.def", "x" : 0,   "y" : 174, "border" : "null",  "area" : "null"  },
+				"cityHall":       { "animation" : "TBINHAL3.def", "x" : 0,   "y" : 174, "border" : "null",  "area" : "null"  },
+				"capitol":        { "animation" : "TBINHAL4.def", "x" : 0,   "y" : 131, "border" : "null",  "area" : "null"  },
+				"marketplace":    { "animation" : "TBINMARK.def", "x" : 511, "y" : 301, "z" : 4,  "border" : "null",  "area" : "null" },
+				"resourceSilo":   { "animation" : "TBINSILO.def", "x" : 497, "y" : 337, "z" : 5,  "border" : "null",  "area" : "null" },
+				"blacksmith":     { "animation" : "TBINBLAK.def", "x" : 684, "y" : 253, "z" : 1,  "border" : "null",  "area" : "null" },
+				"horde1":         { "animation" : "TBINHRD1.def", "x" : 614, "y" : 256, "border" : "null", "area" : "null", "hidden" : true },
+				"horde1Upgr":     { "animation" : "TBINHRD2.def", "x" : 614, "y" : 221, "border" : "null", "area" : "null", "hidden" : true, "builds" : "horde1" },
+				"special2":       { "animation" : "TBINEXT0.def", "x" : 297, "y" : 0,   "z" : -4, "border" : "null", "area" : "null" },
+				"special3":       { "animation" : "TBINEXT1.def", "x" : 227, "y" : 174, "z" : -1,  "border" : "null", "area" : "null" },
+				"special4":       { "animation" : "TBINEXT2.def", "x" : 593, "y" : 104, "z" : -1, "border" : "null",  "area" : "null"  },
+				"horde2":         { "animation" : "TBINHRD3.def", "x" : 10,  "y" : 301, "border" : "null", "area" : "null", "hidden" : true },
+				"horde2Upgr":     { "animation" : "TBINHRD4.def", "x" : 9,   "y" : 273, "border" : "null", "area" : "null", "hidden" : true, "builds" : "horde2" },
+				"grail":          { "animation" : "TBINHOLY.def", "x" : 24,  "y" : 10,  "z" : -1, "border" : "null",  "area" : "null" },
+				"dwellingLvl1":   { "animation" : "TBINDW_0.def", "x" : 614, "y" : 256, "border" : "null",  "area" : "null"  },
+				"dwellingLvl2":   { "animation" : "TBINDW_1.def", "x" : 187, "y" : 248, "z" : 4,  "border" : "null", "area" : "null" },
+				"dwellingLvl3":   { "animation" : "TBINDW_2.def", "x" : 9,   "y" : 325, "border" : "null",  "area" : "null"  },
+				"dwellingLvl4":   { "animation" : "TBINDW_3.def", "x" : 414, "y" : 204, "z" : 2,  "border" : "null",  "area" : "null" },
+				"dwellingLvl5":   { "animation" : "TBINDW_4.def", "x" : 359, "y" : 296, "z" : 3,  "border" : "null",  "area" : "null" },
+				"dwellingLvl6":   { "animation" : "TBINDW_5.def", "x" : 220, "y" : 350, "z" : 5,  "border" : "null",  "area" : "null" },
+				"dwellingLvl7":   { "animation" : "TBINDW_6.def", "x" : 420, "y" : 153, "z" : -3, "border" : "null",  "area" : "null" },
+				"dwellingUpLvl1": { "animation" : "TBINUP_0.def", "x" : 614, "y" : 221, "border" : "null",  "area" : "null"  },
+				"dwellingUpLvl2": { "animation" : "TBINUP_1.def", "x" : 187, "y" : 212, "z" : 4,  "border" : "null", "area" : "null" },
+				"dwellingUpLvl3": { "animation" : "TBINUP_2.def", "x" : 9,   "y" : 273, "border" : "null",  "area" : "null"  },
+				"dwellingUpLvl4": { "animation" : "TBINUP_3.def", "x" : 412, "y" : 197, "z" : 2,  "border" : "null",  "area" : "null" },
+				"dwellingUpLvl5": { "animation" : "TBINUP_4.def", "x" : 359, "y" : 244, "z" : 3,  "border" : "null",  "area" : "null" },
+				"dwellingUpLvl6": { "animation" : "TBINUP_5.def", "x" : 220, "y" : 282, "z" : 5,  "border" : "null",  "area" : "null" },
+				"dwellingUpLvl7": { "animation" : "TBINUP_6.def", "x" : 420, "y" : 105, "z" : -3, "border" : "null",  "area" : "null" }
+			},
+			"musicTheme" : [ "music/null" ],
+			"guildBackground" : "null",
+			"townBackground": "null",
+			"guildWindow": "null",
+			"hallBackground": "null"
+		}
 	}
 }

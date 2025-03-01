@@ -1,0 +1,9 @@
+{
+	"core:castle" :
+	{
+		"town" :
+		{
+			"musicTheme" : [ "music/CstleTown.ogg" ]
+		}
+	}
+}

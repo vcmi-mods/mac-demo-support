@@ -1,6 +1,59 @@
 {
 	"core:stronghold" :
 	{
-		"town" : null
+		"special" : true,
+		"creatureBackground" :
+		{
+			"120px" : "null",
+			"130px" : "null"
+		},
+		"town" :
+		{
+			"structures" :
+			{
+				"extraAnimation": { "animation" : "TBSTEXT3.def", "x" : 23,  "y" : 20 },
+				"mageGuild1":     { "animation" : "TBSTMAGE.def", "x" : 473, "y" : 67,  "z" : -2, "border" : "null",  "area" : "null" },
+				"mageGuild2":     { "animation" : "TBSTMAG2.def", "x" : 473, "y" : 37,  "z" : -2, "border" : "null",  "area" : "null" },
+				"mageGuild3":     { "animation" : "TBSTMAG3.def", "x" : 473, "y" : 1,   "z" : -2, "border" : "null",  "area" : "null" },
+				"tavern":         { "animation" : "TBSTTVRN.def", "x" : 170, "y" : 280, "z" : 2,  "border" : "null",   "area" : "null" },
+				"fort":           { "animation" : "TBSTCSTL.def", "x" : 402, "y" : 148, "z" : -1, "border" : "null",   "area" : "null" },
+				"citadel":        { "animation" : "TBSTCAS2.def", "x" : 402, "y" : 114, "z" : -1, "border" : "null",   "area" : "null" },
+				"castle":         { "animation" : "TBSTCAS3.def", "x" : 402, "y" : 114, "z" : -1, "border" : "null",   "area" : "null" },
+				"villageHall":    { "animation" : "TBSTHALL.def", "x" : 0,   "y" : 259, "border" : "null", "area" : "null" },
+				"townHall":       { "animation" : "TBSTHAL2.def", "x" : 0,   "y" : 225, "border" : "null", "area" : "null" },
+				"cityHall":       { "animation" : "TBSTHAL3.def", "x" : 0,   "y" : 201, "border" : "null", "area" : "null" },
+				"capitol":        { "animation" : "TBSTHAL4.def", "x" : 0,   "y" : 148, "border" : "null", "area" : "null" },
+				"marketplace":    { "animation" : "TBSTMARK.def", "x" : 397, "y" : 308, "z" : 1,  "border" : "null",  "area" : "null" },
+				"resourceSilo":   { "animation" : "TBSTSILO.def", "x" : 458, "y" : 248, "z" : 2,  "border" : "null",  "area" : "null" },
+				"blacksmith":     { "animation" : "TBSTBLAK.def", "x" : 660, "y" : 286, "border" : "null",  "area" : "null" },
+				"special1":       { "animation" : "TBSTSPEC.def", "x" : 550, "y" : 229, "border" : "null", "area" : "null" },
+				"horde1":         { "animation" : "TBSTHRD1.def", "x" : 373, "y" : 239, "border" : "null", "area" : "null", "hidden" : true },
+				"horde1Upgr":     { "animation" : "TBSTHRD2.def", "x" : 373, "y" : 220, "border" : "null", "area" : "null", "hidden" : true, "builds" : "horde1" },
+				"special2":       { "animation" : "TBSTEXT0.def", "x" : 473, "y" : 282, "z" : 3,  "border" : "null", "area" : "null" },
+				"special3":       { "animation" : "TBSTEXT1.def", "x" : 617, "y" : 286, "z" : 1,  "border" : "null",  "area" : "null" },
+				"special4":       { "animation" : "TBSTEXT2.def", "x" : 313, "y" : 13,  "z" : -1, "border" : "null",   "area" : "null" },
+				"grail":          { "animation" : "TBSTHOLY.def", "x" : 321, "y" : 105, "z" : 3,  "border" : "null", "area" : "null" },
+				"dwellingLvl1":   { "animation" : "TBSTDW_0.def", "x" : 373, "y" : 239, "border" : "null",  "area" : "null" },
+				"dwellingLvl2":   { "animation" : "TBSTDW_1.def", "x" : 266, "y" : 246, "z" : 1,  "border" : "null",  "area" : "null" },
+				"dwellingLvl3":   { "animation" : "TBSTDW_2.def", "x" : 566, "y" : 232, "z" : 2,  "border" : "null",  "area" : "null" },
+				"dwellingLvl4":   { "animation" : "TBSTDW_3.def", "x" : 197, "y" : 204, "border" : "null",  "area" : "null" },
+				"dwellingLvl5":   { "animation" : "TBSTDW_4.def", "x" : 137, "y" : 30,  "z" : -1, "border" : "null",  "area" : "null" },
+				"dwellingLvl6":   { "animation" : "TBSTDW_5.def", "x" : 622, "y" : 160, "z" : -2, "border" : "null",  "area" : "null" },
+				"dwellingLvl7":   { "animation" : "TBSTDW_6.def", "x" : 604, "y" : 0,   "border" : "null", "area" : "null" },
+				"dwellingUpLvl1": { "animation" : "TBSTUP_0.def", "x" : 373, "y" : 220, "border" : "null",  "area" : "null" },
+				"dwellingUpLvl2": { "animation" : "TBSTUP_1.def", "x" : 266, "y" : 225, "z" : 1,  "border" : "null",  "area" : "null" },
+				"dwellingUpLvl3": { "animation" : "TBSTUP_2.def", "x" : 566, "y" : 158, "z" : 2,  "border" : "null",  "area" : "null" },
+				"dwellingUpLvl4": { "animation" : "TBSTUP_3.def", "x" : 197, "y" : 137, "border" : "null",  "area" : "null" },
+				"dwellingUpLvl5": { "animation" : "TBSTUP_4.def", "x" : 129, "y" : 15,  "z" : -1, "border" : "null",  "area" : "null" },
+				"dwellingUpLvl6": { "animation" : "TBSTUP_5.def", "x" : 616, "y" : 93,  "z" : -2, "border" : "null", "area" : "null" },
+				"dwellingUpLvl7": { "animation" : "TBSTUP_6.def", "x" : 604, "y" : 0,   "border" : "null", "area" : "null" }
+			},
+
+			"musicTheme" : [ "music/null" ],
+			"guildBackground" : "null",
+			"townBackground": "null",
+			"guildWindow": "null",
+			"hallBackground": "null"
+		}
 	}
 }
