@@ -15,9 +15,6 @@
 		"tides-of-war.alternative-creatures",
 		"tides-of-war.hota-balance-compatibility-patch"
 	],
-	"conflicts" : [
-		"wake-of-gods.woggraphicfix.wf_mapobjects" // Without this exist RMG Crash with core:shrineOfMagicLevel1 from some reason
-	],
 	"changelog" :
 	{
 		"0.3" : [ "Added Horn of the Abyss compatibility", "Added Tides of War compatibility", "Added In The Wake of Gods compatibility", "Added New Monsters pack compatibility", "Added Moon Artifacts compatibility" ],
