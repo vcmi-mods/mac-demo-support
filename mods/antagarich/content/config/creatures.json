@@ -1,0 +1,32 @@
+{
+	"ab-bad-ending-assets:abbe_glaciation" : {
+		"sound" :
+		{
+			"attack": "ZELTATTK.wav",
+			"defend": "ZELTDFND.wav",
+			"killed": "ZELTKILL.wav",
+			"move": "ZELTMOVE.wav",
+			"shoot": "ZELTSHOT.wav",
+			"wince": "ZELTWNCE.wav"
+		}
+	},
+	"ab-bad-ending-assets:abbe_greyEnch" : {
+		"sound" :
+		{
+			"attack": "ZELTATTK.wav",
+			"defend": "ZELTDFND.wav",
+			"killed": "ZELTKILL.wav",
+			"move": "ZELTMOVE.wav",
+			"shoot": "ZELTSHOT.wav",
+			"wince": "ZELTWNCE.wav"
+		}
+	},
+	"ab-bad-ending-assets:abbe_wilder" : {
+		"sound" :
+		{
+			"defend": "ZELTDFND.wav",
+			"move": "ZELTMOVE.wav",
+			"wince": "ZELTWNCE.wav"
+		}
+	}
+}
