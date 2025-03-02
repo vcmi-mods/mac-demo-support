@@ -3,7 +3,7 @@
 	{
 		"town" :
 		{
-			"musicTheme" : [ "music/CstleTown.ogg" ]
+			"musicTheme" : [ "music/CstleTown" ]
 		}
 	}
 }

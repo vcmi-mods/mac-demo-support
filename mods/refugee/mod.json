@@ -1,5 +1,5 @@
 {
-	"name" : "Heroes III Demo - Fiery terrain fix",
+	"name" : "Heroes III Demo - Refugee fix",
 	"description": "",
 	"author" : "misiokles, SXX, George King",
 	"contact" : "",
@@ -8,10 +8,10 @@
 	"modType" : "Compatibility",
 	"version" : "1.0",
 	"depends" : [
-		"newtown-terrains.fierylandterrain"
+		"refugee-town"
 	],
-	"terrains":
+	"creatures" :
 	[
-		"config/terrains.json"
+		"config/creatures.json"
 	]
 }
