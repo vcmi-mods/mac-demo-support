@@ -2,12 +2,12 @@
 	"moon-artifacts:moonMage" : {
 		"sound" :
 		{
-			"attack": "null.wav",
-			"defend": "null.wav",
-			"killed": "null.wav",
-			"move": "null.wav",
-			"shoot": "null.wav",
-			"wince": "null.wav"
+			"attack": "ZELTATTK.wav",
+			"defend": "ZELTDFND.wav",
+			"killed": "ZELTKILL.wav",
+			"move": "ZELTMOVE.wav",
+			"shoot": "ZELTSHOT.wav",
+			"wince": "ZELTWNCE.wav"
 		}
 	}
 }

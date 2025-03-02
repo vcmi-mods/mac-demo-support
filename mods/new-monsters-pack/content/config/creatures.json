@@ -2,7 +2,7 @@
 	"new-monsters-pack.dwarf-pack:raDwarfShaman" : {
 		"sound" :
 		{
-			"shoot": "null.wav"
+			"shoot": "GOGGSHOT.wav"
 		}
 	}
 }

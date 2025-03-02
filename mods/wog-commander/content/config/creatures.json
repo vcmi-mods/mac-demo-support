@@ -2,12 +2,12 @@
 	"wake-of-gods.commanders:ogreLeader1" : {
 		"sound" :
 		{
-			"attack": "null.wav",
-			"defend": "null.wav",
-			"killed": "null.wav",
-			"move": "null.wav",
-			"shoot": "null.wav",
-			"wince": "null.wav"
+			"attack": "OGREATTK.wav",
+			"defend": "OGREDFND.wav",
+			"killed": "OGREKILL.wav",
+			"move": "OGREMOVE.wav",
+			"shoot": "OGRESHOT.wav",
+			"wince": "OGREWNCE.wav"
 		}
 	}
 }
