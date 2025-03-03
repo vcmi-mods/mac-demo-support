@@ -6,7 +6,7 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"modType" : "Other",
-	"version" : "0.3",
+	"version" : "0.4",
 	"softDepends" : [
 		"hota",
 		"hota.confluxvaultofashes",
@@ -17,6 +17,7 @@
 	],
 	"changelog" :
 	{
+		"0.4" : [ "Castle, Dungeon, Necropolis music theme is now Stronghold theme which exist in Demo instead of nothing" ],
 		"0.3" : [ "Added Horn of the Abyss compatibility", "Added Tides of War compatibility", "Added In The Wake of Gods compatibility", "Added New Monsters pack compatibility", "Added Moon Artifacts compatibility", "Added Asylum, Cathedral, Fairy, Haven, Refugee, Tartarus towns compatibility", "Added HQ Music mod compatibility", "Added Antagarich Burning compatibility" ],
 		"0.2" : [ "Fixed factions configs", "Added main menu config", "Added Czech and Polish translations" ],
 		"0.1" : [ "Initial release" ]
