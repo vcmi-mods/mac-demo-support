@@ -1,0 +1,8 @@
+{
+	"new-monsters-pack.dwarf-pack:raDwarfShaman" : {
+		"sound" :
+		{
+			"shoot": "GOGGSHOT.wav"
+		}
+	}
+}

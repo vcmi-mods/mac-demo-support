@@ -1,0 +1,13 @@
+{
+	"wake-of-gods.level8units:sacredPhoenix" : {
+		"sound" :
+		{
+			"attack": "PIXIATTK.wav",
+			"defend": "PIXIDFND.wav",
+			"killed": "PIXIKILL.wav",
+			"move": "PIXIMOVE.wav",
+			"shoot": "PIXISHOT.wav",
+			"wince": "PIXIWNCE.wav"
+		}
+	}
+}

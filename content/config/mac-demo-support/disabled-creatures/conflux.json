@@ -2,17 +2,44 @@
 	"core:psychicElemental" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:magicElemental" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:iceElemental" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:magmaElemental" :
 	{
@@ -22,16 +49,43 @@
 	"core:energyElemental" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:firebird" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	},
 	"core:phoenix" :
 	{
 		"disabled" : true,
-		"graphics" : null
+		"graphics" : null,
+		"sound" :
+		{
+			"attack": "null.wav",
+			"defend": "null.wav",
+			"killed": "null.wav",
+			"move": "null.wav",
+			"shoot": "null.wav",
+			"wince": "null.wav"
+		}
 	}
 }

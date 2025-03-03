@@ -1,0 +1,16 @@
+{
+	"haven-town:havC11B" : {
+		"sound" :
+		{
+			"move": "ZELTMOVE.wav",
+			"shoot": "ZELTSHOT.wav"
+		}
+	},
+	"haven-town:havC12B" : {
+		"sound" :
+		{
+			"move": "ZELTMOVE.wav",
+			"shoot": "ZELTSHOT.wav"
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"cathedral-town:cthSexton" : {
+		"sound" :
+		{
+			"shoot": "ZELTSHOT.wav"
+		}
+	}
+}

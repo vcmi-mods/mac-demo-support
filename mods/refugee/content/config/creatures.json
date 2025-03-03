@@ -1,0 +1,14 @@
+{
+	"refugee-town:rfgcDragolem" : {
+		"sound" :
+		{
+			"shoot": "ZELTSHOT.wav"
+		}
+	},
+	"refugee-town:rfgcDragolemUp" : {
+		"sound" :
+		{
+			"shoot": "ZELTSHOT.wav"
+		}
+	}
+}
