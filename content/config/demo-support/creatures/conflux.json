@@ -1,7 +1,7 @@
 {
 	"core:psychicElemental" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -15,7 +15,7 @@
 	},
 	"core:magicElemental" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -29,7 +29,7 @@
 	},
 	"core:iceElemental" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -43,12 +43,12 @@
 	},
 	"core:magmaElemental" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null
 	},
 	"core:energyElemental" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -62,7 +62,7 @@
 	},
 	"core:firebird" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -76,7 +76,7 @@
 	},
 	"core:phoenix" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{

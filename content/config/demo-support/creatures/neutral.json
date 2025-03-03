@@ -1,17 +1,17 @@
 {
 	"core:goldGolem" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null
 	},
 	"core:diamondGolem" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null
 	},
 	"core:azureDragon" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -25,7 +25,7 @@
 	},
 	"core:crystalDragon" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -39,7 +39,7 @@
 	},
 	"core:fairieDragon" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -53,7 +53,7 @@
 	},
 	"core:rustDragon" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -67,7 +67,7 @@
 	},
 	"core:enchanter" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
@@ -81,12 +81,12 @@
 	},
 	"core:sharpshooter" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null
 	},
 	"core:troll" :
 	{
-		"disabled" : true,
+		"special" : true,
 		"graphics" : null,
 		"sound" :
 		{
