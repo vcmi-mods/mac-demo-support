@@ -6,7 +6,7 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"modType" : "Other",
-	"version" : "0.3",
+	"version" : "0.4",
 	"softDepends" : [
 		"hota",
 		"hota.confluxvaultofashes",
@@ -17,6 +17,7 @@
 	],
 	"changelog" :
 	{
+		"0.4" : [ "Castle, Dungeon, Necropolis music theme is now Stronghold theme which exist in Demo instead of nothing", "Fixed missing dwellings and banks" ],
 		"0.3" : [ "Added Horn of the Abyss compatibility", "Added Tides of War compatibility", "Added In The Wake of Gods compatibility", "Added New Monsters pack compatibility", "Added Moon Artifacts compatibility", "Added Asylum, Cathedral, Fairy, Haven, Refugee, Tartarus towns compatibility", "Added HQ Music mod compatibility", "Added Antagarich Burning compatibility" ],
 		"0.2" : [ "Fixed factions configs", "Added main menu config", "Added Czech and Polish translations" ],
 		"0.1" : [ "Initial release" ]
@@ -37,37 +38,42 @@
 	},
 	"factions" :
 	[
-		"config/mac-demo-support/factions/castle.json",
-		"config/mac-demo-support/factions/dungeon.json",
-		"config/mac-demo-support/factions/necropolis.json",
-		"config/mac-demo-support/factions-without-town/conflux.json",
-		"config/mac-demo-support/factions-without-town/fortress.json",
-		"config/mac-demo-support/factions-without-town/inferno.json",
-		"config/mac-demo-support/factions-without-town/rampart.json",
-		"config/mac-demo-support/factions-without-town/stronghold.json",
-		"config/mac-demo-support/factions-without-town/tower.json"
+		"config/demo-support/factions/castle.json",
+		"config/demo-support/factions/dungeon.json",
+		"config/demo-support/factions/necropolis.json",
+		"config/demo-support/factions-without-town/conflux.json",
+		"config/demo-support/factions-without-town/fortress.json",
+		"config/demo-support/factions-without-town/inferno.json",
+		"config/demo-support/factions-without-town/rampart.json",
+		"config/demo-support/factions-without-town/stronghold.json",
+		"config/demo-support/factions-without-town/tower.json"
 	],
 	"creatures" :
 	[
-		"config/mac-demo-support/disabled-creatures/conflux.json",
-		"config/mac-demo-support/disabled-creatures/fortress.json",
-		"config/mac-demo-support/disabled-creatures/inferno.json",
-		"config/mac-demo-support/disabled-creatures/rampart.json",
-		"config/mac-demo-support/disabled-creatures/stronghold.json",
-		"config/mac-demo-support/disabled-creatures/tower.json",
-		"config/mac-demo-support/disabled-creatures/neutral.json"
+		"config/demo-support/creatures/conflux.json",
+		"config/demo-support/creatures/fortress.json",
+		"config/demo-support/creatures/inferno.json",
+		"config/demo-support/creatures/rampart.json",
+		"config/demo-support/creatures/stronghold.json",
+		"config/demo-support/creatures/tower.json",
+		"config/demo-support/creatures/neutral.json"
 	],
 	"heroes" :
 	[
-		"config/mac-demo-support/disabled-heroes/conflux.json",
-		"config/mac-demo-support/disabled-heroes/fortress.json",
-		"config/mac-demo-support/disabled-heroes/inferno.json",
-		"config/mac-demo-support/disabled-heroes/rampart.json",
-		"config/mac-demo-support/disabled-heroes/stronghold.json",
-		"config/mac-demo-support/disabled-heroes/tower.json"
+		"config/demo-support/heroes/conflux.json",
+		"config/demo-support/heroes/fortress.json",
+		"config/demo-support/heroes/inferno.json",
+		"config/demo-support/heroes/rampart.json",
+		"config/demo-support/heroes/stronghold.json",
+		"config/demo-support/heroes/tower.json"
 	],
 	"terrains":
 	[
-		"config/mac-demo-support/terrains.json"
+		"config/demo-support/terrains.json"
+	],
+	"objects" : 
+	[
+		"config/demo-support/patched-objects/banks.json",
+		"config/demo-support/patched-objects/dwellings.json"
 	]
 }

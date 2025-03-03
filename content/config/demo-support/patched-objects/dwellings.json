@@ -1,0 +1,106 @@
+{
+	"core:creatureGeneratorCommon" : {
+		"types" : {
+			"basiliskPit": {
+				"special" : true
+			},
+			"behemothCrag": {
+				"special" : true
+			},
+			"forsakenPalace": {
+				"creatures": [["magog"]]
+			},
+			"fireLake": {
+				"creatures": [["gog"]]
+			},
+			"altarOfWishes": {
+				"special" : true
+			},
+			"gorgonLair": {
+				"special" : true
+			},
+			"dragonCliffs": {
+				"creatures": [["blackDragon"]]
+			},
+			"hydraPond": {
+				"special" : true
+			},
+			"mageTower": {
+				"special" : true
+			},
+			"goldenPavilion": {
+				"special" : true
+			},
+			"demonGate": {
+				"special" : true
+			},
+			"ogreFort": {
+				"special" : true
+			},
+			"hellHole": {
+				"creatures": [["imp"]]
+			},
+			"cliffNest": {
+				"special" : true
+			},
+			"cloudTemple": {
+				"special" : true
+			},
+			"dendroidArches": {
+				"special" : true
+			},
+			"wyvernNest": {
+				"special" : true
+			},
+			"unicornGladeBig": {
+				"special" : true
+			},
+			"altarOfThought": {
+				"creatures": [["stormElemental"]]
+			},
+			"pyre": {
+				"special" : true
+			},
+			"frozenCliffs": {
+				"creatures": [["ghostDragon"]]
+			},
+			"crystalCavern": {
+				"creatures": [["redDragon"]]
+			},
+			"magicForest": {
+				"creatures": [["redDragon"]]
+			},
+			"sulfurousLair": {
+				"creatures": [["blackDragon"]]
+			},
+			"enchantersHollow": {
+				"creatures": [["woodElf"]]
+			},
+			"treetopTower": {
+				"creatures": [["woodElf"]]
+			},
+			"unicornGlade": {
+				"special" : true
+			},
+			"trollBridge": {
+				"special" : true
+			}
+		}
+	},
+	"core:creatureGeneratorSpecial" : {
+		"types" : {
+			"golemFactory" : {
+				"creatures" : [ // 4 separate "levels" to give them separate growth
+					[ "ironGolem" ],
+					[ "ironGolem" ],
+					[ "ironGolem" ],
+					[ "ironGolem" ]
+				],
+				"guards" : [
+					{ "amount" : 9, "type" : "ironGolem" },
+					{ "amount" : 6, "type" : "ironGolem" }
+				]
+			}
+		}
+	}
+}
